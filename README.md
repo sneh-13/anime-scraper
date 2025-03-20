@@ -15,7 +15,7 @@ A Python-based project that scrapes anime details from [Anime-Planet](https://ww
 - **Libraries:**
   - [Selenium](https://selenium-python.readthedocs.io/)
   - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-  - [Tkinter](https://docs.python.org/3/library/tkinter.html) (usually included with Python)
+  - [Tkinter](https://docs.python.org/3/library/tkinter.html)
 - **Safari Browser:** Ensure Safari is installed.
   - **Note:** Remote Automation must be enabled in Safari. To do this, open Safari, go to **Develop > Allow Remote Automation** and enable it.
 
@@ -40,6 +40,8 @@ A Python-based project that scrapes anime details from [Anime-Planet](https://ww
 - **gui.py:** Implements a graphical user interface using Tkinter to interact with the scraper.
 
 ## Gui Interface
+
+Run Gui interface by executing: 
 
 ```bash
 python gui.py
